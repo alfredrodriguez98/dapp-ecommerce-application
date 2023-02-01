@@ -12,12 +12,13 @@ import Dappazon from './abis/Dappazon.json'
 // Config
 import config from './config.json'
 
+//Functional react component
 function App() {
 
   return (
     <div>
 
-      <h2>Welcome to Dappazon</h2>
+      <h2>Welcome to SperiCart!</h2>
 
     </div>
   );
